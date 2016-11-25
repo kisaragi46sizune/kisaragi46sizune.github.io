@@ -1,4 +1,6 @@
-body{background:  skyblue}
+.work-title{background: red;}
+
+body{ background:  skyblue}
 p{
   font-style: italic;
   color: gray;
